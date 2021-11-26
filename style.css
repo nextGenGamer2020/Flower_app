@@ -1,0 +1,31 @@
+.img2{
+    
+    
+    width: 250px;
+    height: 200px;
+    
+    
+}
+#img1{
+    
+    width: 100%;
+}
+.menu1{
+    
+    float:left;
+    list-style:none;
+    color: aliceblue;
+    position: fixed;
+    background: black;
+    width: 100%;
+    margin-top:0px;
+    top: 0px;
+    z-index: 10;
+}
+.links{
+    
+    display:inline;
+    font-size:20px;
+    padding-right: 35px;
+    padding-left: 35px;
+}
